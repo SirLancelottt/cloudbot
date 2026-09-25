@@ -1,12 +1,11 @@
 {
   "channels": {
     "-1003770985855": {
-      "!cloudstream": "https://raw.githubusercontent.com/KULLANICI/REPO/main/cloudstream-messages.json",
-      "!nexxora": "https://raw.githubusercontent.com/KULLANICI/REPO/main/nexxora-messages.json"
+      "!cloudstream": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/cloudstream-messages.json"
     },
     "-4380758380": {
-      "!cloudstream": "https://raw.githubusercontent.com/KULLANICI/REPO/main/cloudstream-messages.json",
-      "!test": "https://raw.githubusercontent.com/KULLANICI/REPO/main/test-messages.json"
+      "!cloudstream": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/cloudstream-messages.json",
+      "!test": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/test-messages.json"
     }
   }
 }
