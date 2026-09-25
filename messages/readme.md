@@ -1,0 +1,1 @@
+Bakıom da hep burdasın
