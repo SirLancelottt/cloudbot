@@ -2,7 +2,7 @@
   {
     "sira": 1,
     "metin": "🎬 <b>CloudStream Nedir?</b>\n\nFilm ve dizi izleyebileceğiniz ücretsiz ve açık kaynaklı bir uygulamadır.\n\nKurulum birkaç adımdan oluşmaktadır, hadi başlayalım! 👇",
-    "resim": "https://raw.githubusercontent.com/KULLANICI/REPO/main/img/cloudstream-banner.jpg",
+    "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/pics/Download-CloudStreamEx-APK-Android.jpg",
     "video": null,
     "apk": null
   },
@@ -11,27 +11,27 @@
     "metin": "🥇 <b>1. Adım — CloudStream Kurulumu</b>\n\nAşağıdaki APK dosyasını indirip kurun.\n⚠️ Kurulum sırasında <b>Bilinmeyen Kaynaklara İzin Ver</b> seçeneğini aktif edin.",
     "resim": null,
     "video": null,
-    "apk": "https://github.com/KULLANICI/REPO/releases/download/v1/cloudstream.apk"
+    "apk": "https://github.com/SirLancelottt/cloudbot/releases/download/v1/app-prerelease-release.apk"
   },
   {
     "sira": 3,
     "metin": "🥈 <b>2. Adım — ByeByeDpi Kurulumu</b>\n\nByeByeDpi internet kısıtlamalarını aşmanıza yardımcı olur.\n\nAPK'yı kurun, uygulamayı açın ve <b>Başlat</b> butonuna basın.",
     "resim": null,
     "video": null,
-    "apk": "https://github.com/KULLANICI/REPO/releases/download/v1/byebyedpi.apk"
+    "apk": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/files/ByeByeDPI-v1.7.8-universal-release.apk"
   },
   {
     "sira": 4,
     "metin": "🥉 <b>3. Adım — RepoManager Kurulumu</b>\n\nRepoManager, CloudStream'e kolayca depo eklemenizi sağlar.\n\nAPK'yı indirip kurun.",
     "resim": null,
     "video": null,
-    "apk": "https://github.com/KULLANICI/REPO/releases/download/v1/repomanager.apk"
+    "apk": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/files/CSRepoManager_User.apk"
   },
   {
     "sira": 5,
     "metin": "✅ <b>Kurulum Tamamlandı!</b>\n\nSon adım olarak depo eklemeniz gerekiyor.\nAşağıdaki videoyu izleyerek depoyu ekleyin. 🎉",
     "resim": null,
-    "video": "https://github.com/KULLANICI/REPO/releases/download/v1/repo-kurulum.mp4",
+    "video": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/pics/document_5879485326832967678.mp4",
     "apk": null
   }
 ]
