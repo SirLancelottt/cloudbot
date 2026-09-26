@@ -1,35 +1,35 @@
 [
   {
     "sira": 1,
-    "metin": "🎬 <b>CloudStream Nedir?</b>\n\n<b>Cloudstream</b> Film ve dizi izleyebileceğiniz ücretsiz ve açık kaynaklı bir uygulamadır.\nÇalışma prensibi var olan bir kaynak veye sitenin içindeki video vb. kaynakları size reklamsız ve hızlı olarak ulaştırmak olarak özetlenebilir.\n\nKurulum birkaç adımdan oluşmaktadır, hadi başlayalım! 👇",
+    "metin": "🎬 <b>CloudStream Nedir?</b>\n\n<b>Cloudstream</b> Film ve dizi izleyebileceğiniz ücretsiz ve açık kaynaklı bir uygulamadır.\nÇalışma prensibi var olan bir kaynak veye sitenin içindeki video vb. kaynakları size reklamsız ve hızlı olarak ulaştırmak olarak özetlenebilir.\n\nKurulum birkaç adımdan oluşmaktadır.\nTüm aşamalar ve açıklamaları sırası ile anlatılmıştır.",
     "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/pics/Download-CloudStreamEx-APK-Android.jpg",
     "video": null,
     "apk": null
   },
   {
     "sira": 2,
-    "metin": "🥇 <b>1. Adım — CloudStream Kurulumu</b>\n\nAşağıdaki APK dosyasını indirip kurun.\n⚠️ Kurulum sırasında <b>Bilinmeyen Kaynaklara İzin Ver</b> seçeneğini aktif edin.",
+    "metin": "🥇 <b>1. Adım — CloudStream Kurulumu</b>\n\nAşağıdaki APK dosyasını indirip kurun.\n⚠️ Kurulum sırasında <b>Bilinmeyen Kaynaklara İzin Ver</b> seçeneğini aktif edin.\n\nUygulama kurulum bittiğinde uygulamayı açarak ön ayarları yapmayı unutmayınız.\nÖn ayarları tamamladıktan sonra uygulamadan çıkış yapabilirsiniz.",
     "resim": null,
     "video": null,
     "apk": "BQACAgQAAyEFAAMBBR0RbAACC7xqtwHQhhwl0m-shTsUZtC52gy1bwAC5yAAAl7buFHNZGQKHz53TD0E"
   },
   {
     "sira": 3,
-    "metin": "🥈 <b>2. Adım — ByeByeDpi Kurulumu</b>\n\nByeByeDpi internet kısıtlamalarını aşmanıza yardımcı olur.\n\nAPK'yı kurun, uygulamayı açın ve <b>Başlat</b> butonuna basın.",
+    "metin": "🥈 <b>2. Adım — ByeByeDpi Kurulumu</b>\n\n<b>ByeByeDpi</b> internet kısıtlamalarını aşmanıza yardımcı olur.\n\nAPK'yı kurun, uygulamayı açın ve <b>Başlat</b> butonuna basın.\n\n<b>ByeByeDpi</b> uygulaması ISS Kaynaklı engelleri aşmanıza yardımcı olacaktır.\nUygulamanın ve Depoların daha sağlıklı çalışması için <b>ByeByeDpi</b> uygulamasının açık olmasına dikkat ediniz.",
     "resim": null,
     "video": null,
     "apk": "BQACAgQAAyEFAAMBBR0RbAACDBlqt9sy6tqZ1QG_-Ed45I2wtP7EsQACSB4AAl7bwFHIelZij41NNj0E"
   },
   {
     "sira": 4,
-    "metin": "🥉 <b>3. Adım — RepoManager Kurulumu</b>\n\nRepoManager, CloudStream'e kolayca depo eklemenizi sağlar.\n\nAPK'yı indirip kurun.",
+    "metin": "🥉 <b>3. Adım — RepoManager Kurulumu</b>\n\n<b>RepoManager</b>, CloudStream'e kolayca depo eklemenizi sağlar.\n\nAPK'yı indirip kurun.\n\nUygulama çalıştırıldığında anlık <b>Güncel Depo Listesi</b> mantığı ile çalışmaktadır.\nUygulama ilk kullanımda <b>Cloudstream ile birlikte aç</b> ve <b>Her zaman</b> olarak seçilmelidir.",
     "resim": null,
     "video": null,
     "apk": "BQACAgQAAyEFAAMBBR0RbAACDBpqt9uuxlm5-VzciGx8vY6gpq6vvgACTB4AAl7bwFHGw4z1ty-7tj0E"
   },
   {
     "sira": 5,
-    "metin": "✅ <b>Kurulum Tamamlandı!</b>\n\nSon adım olarak depo eklemeniz gerekiyor.\nAşağıdaki videoyu izleyerek depoyu ekleyin. 🎉",
+    "metin": "✅ <b>Kurulum Tamamlandı!</b>\n\nSon adım olarak depo eklemeniz gerekiyor.\nAşağıdaki videoyu izleyerek depoyu ekleyin.\n\nDepo içlerindeki eklentiler bazı zamanlarda çalışmayabilir.\nBu <b>Cloudstream</b> kaynaklı değil, kaynak site veya bağlantı kaynaklıdır.\nBu aşamada kullanıcının yüklemiş olduğu <b>DEPO ve EKLENTİLER</b> kendi seçimidir.\nBu aşamada bir sorumluluk kabul etmiyoruz.\n\nİyi Seyirler.... ",
     "resim": null,
     "video": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/pics/document_5879485326832967678.mp4",
     "apk": null
