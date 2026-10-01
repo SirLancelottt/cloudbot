@@ -5,7 +5,8 @@
       "!nexxora": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/nexxora-messages.json",
       "!ottrun": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/ottrun-messages.json",
       "!gunaydin": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/gunaydin-messages.json",
-      "!hayirligunler": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/hayirli-gunler-messages.json"
+      "!hayirligunler": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/hayirli-gunler-messages.json",
+      "!hayirlicumalar1": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/hayirli-cumalar-messages-1.json"
     },
     "-1004380758380": {
       "!cloudstream": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main//messages/cloudstream-messages.json",
@@ -13,7 +14,8 @@
       "!ottrun": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/ottrun-messages.json",
       "!test": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/test-messages.json",
       "!gunaydin": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/gunaydin-messages.json",
-      "!hayirligunler": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/hayirli-gunler-messages.json"
+      "!hayirligunler": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/hayirli-gunler-messages.json",
+      "!hayirlicumalar1": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/hayirli-cumalar-messages-1.json"
     }
   }
 }
