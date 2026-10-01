@@ -3,13 +3,15 @@
     "-1003770985855": {
       "!cloudstream": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/cloudstream-messages.json",
       "!nexxora": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/nexxora-messages.json",
-      "!ottrun": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/ottrun-messages.json"
+      "!ottrun": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/ottrun-messages.json",
+      "!gunaydin": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/gunaydin-messages.json"
     },
     "-1004380758380": {
       "!cloudstream": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main//messages/cloudstream-messages.json",
       "!nexxora": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/nexxora-messages.json",
       "!ottrun": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/ottrun-messages.json",
-      "!test": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/test-messages.json"
+      "!test": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/test-messages.json",
+      "!gunaydin": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/gunaydin-messages.json"
     }
   }
 }
