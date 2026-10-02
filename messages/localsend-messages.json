@@ -1,0 +1,30 @@
+[
+  {
+    "sira": 1,
+    "metin": "📍 <b>LocalSend Nedir?</b>\n\n<b>LocalSend</b> Telefonunuzda veya bilgisayarınızda bulunan bir uygulamayı diğer cihazlarınıza aktarmanızı sağlayan bir uygulamadır.\n\nAşağıdaki 2 videoda programın çalışması anlatılmıştır.\nVideoları seyrederek bu sorununuzu çözebilirsiniz.",
+    "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/pics/localsend.webp",
+    "video": null,
+    "apk": null
+  },
+  {
+    "sira": 2,
+    "metin": "📥 <b>1. Adım — LocalSend Kurulumu</b>\n\nAPK dosyasını indirip kurun.\n⚠️ Kurulum sırasında <b>Bilinmeyen Kaynaklara İzin Ver</b> seçeneğini aktif edin.\n\nUygulama kurulum bittiğinde uygulamayı açarak ön ayarları yapmayı unutmayınız.\nÖn ayarları tamamladıktan sonra uygulamadan çıkış yapabilirsiniz.\n\nUygulamanın sağlıklı çalışması için iki cihazında aynı ağ üzerinde olması ve iki cihazda da <b>LocalSend</b> uygulamasının olması gerekmektedir.",
+    "resim": null,
+    "video": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/files/localsend1.mp4",
+    "apk": null
+  },
+  {
+    "sira": 3,
+    "metin": "📤 <b>2. Adım — LocalSend Kullanımı</b>\n\nVideoyu izleyerek adımlarınıza devam edin.",
+    "resim": null,
+    "video": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/files/localsend2.mp4",
+    "apk": null
+  },
+  {
+    "sira": 4,
+    "metin": "✅ <b>Kurulum ve Aktarım Tamamlandı!</b>\n\nUygulama hem dosyanızı gönderecek hem de çalıştıracak şekilde olduğu için aktarım tamamlandığında dosyanız işlenecektir.\n\nVideoyu çeken ve paylaşan <b>@Okay0409</b> arkadaşımıza teşekkür ederiz.\n\nBu paylaşım <b>Bilgilendirme Amaçlı</b> yapılmıştır.\nUygulamanın yüklenmesi <b>Tamamen ve Tamamen Kullanıcının</b> tercihidir.\nUygulama Kurulumu - Kullanımı veya Uygulama Kanallı olarak oluşacak sorunlardan <b>GRUBUMUZ veya YÖNETİCİLERİMİZ SORUMLU DEĞİLDİR</b>.\n\nİyi Seyirler.... ",
+    "resim": null,
+    "video": null,
+    "apk": null
+  }
+]
