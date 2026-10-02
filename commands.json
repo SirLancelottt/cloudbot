@@ -9,7 +9,7 @@
       "!hayirlicumalar1": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/hayirli-cumalar-messages-1.json",
       "!hayirlicumalar2": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/hayirli-cumalar-messages-2.json",
       "!teknikservisler": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/teknik-servis-messages.json",
-      "!mazlum": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/mazlum-messages.json"
+      "!iptvpro": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/iptvpro-messages.json"
     },
     "-1004380758380": {
       "!cloudstream": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main//messages/cloudstream-messages.json",
@@ -21,6 +21,7 @@
       "!hayirlicumalar1": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/hayirli-cumalar-messages-1.json",
       "!hayirlicumalar2": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/hayirli-cumalar-messages-2.json",
       "!teknikservisler": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/teknik-servis-messages.json",
+      "!iptvpro": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/iptvpro-messages.json",
       "!mazlum": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/mazlum-messages.json"
     }
   }
