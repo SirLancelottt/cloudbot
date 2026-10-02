@@ -11,7 +11,7 @@
       "!teknikservisler": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/teknik-servis-messages.json",
       "!iptvpro": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/iptvpro-messages.json",
       "!smarters": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/smarters-messages.json",
-      "!vizona": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/vizona-messages.json",
+      "!vizyona": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/vizona-messages.json",
       "!localsend": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/localsend-messages.json"
     },
     "-1004380758380": {
@@ -27,7 +27,7 @@
       "!iptvpro": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/iptvpro-messages.json",
       "!mazlum": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/mazlum-messages.json",
       "!smarters": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/smarters-messages.json",
-      "!vizona": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/vizona-messages.json",
+      "!vizyona": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/vizona-messages.json",
       "!localsend": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/localsend-messages.json"
     }
   }
