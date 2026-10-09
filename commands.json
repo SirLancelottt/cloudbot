@@ -13,7 +13,8 @@
       "!smarters": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/smarters-messages.json",
       "!vizyona": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/vizona-messages.json",
       "!localsend": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/localsend-messages.json",
-      "!konflix": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/konflix-messages.json"
+      "!konflix": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/konflix-messages.json",
+      "!nettv": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/nettv-messages.json"
     },
     "-1004380758380": {
       "!cloudstream": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main//messages/cloudstream-messages.json",
@@ -30,7 +31,8 @@
       "!smarters": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/smarters-messages.json",
       "!vizyona": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/vizona-messages.json",
       "!localsend": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/localsend-messages.json",
-      "!konflix": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/konflix-messages.json"
+      "!konflix": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/konflix-messages.json",
+      "!nettv": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/messages/nettv-messages.json"
     }
   }
 }
