@@ -9,7 +9,7 @@
   {
     "sira": 2,
     "metin": "<b>🧭 Sağlayıcı seçici :</b> Ana sayfa eklenti merkezli çalışabilir. Sağ alttaki hap butonla sağlayıcı seçilir; arama, Hepsi - CloudStream - Nuvio filtreleri, sabitleme ve çoklu seçim desteklenir.\n<b>🧲 Yerleşik torrent motoru :</b> Torrent kaynakları için ayrı uygulama, TorrServer ya da Debrid gerekmez.\n<b>🎛️ Akıllı oynatıcı :</b> Sağ tarafı kaydırarak ses, sol tarafı kaydırarak parlaklık. Kilit, kaynak, ses ve video kalitesi panelleri. Dizide sonraki bölüm otomatik açılır.\n<b>📥 Çevrimdışı izle :</b> Film ve bölümleri indir, internetsiz izle. Kaldığın yerden devam eder.\n<b>📺 Her ekranda :</b> Telefon, tablet ve Android TV. Kumandayla ve hava faresiyle gezinme tam desteklenir.",
-    "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/pics/play.png",
+    "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/refs/heads/main/pics/play1.jfif",
     "video": null,
     "apk": null
   },
@@ -23,7 +23,7 @@
   {
     "sira": 4,
     "metin": "Downloader uygulamasına sahip kullanıcılar için kodumuz <b>8206080</b>\n\n03-11-26 Tarihli Güncel Versiyon Eklenmiştir.\nYeni güncellemeyi uygulama üzerinden karşınıza çıkan uyarıdan yapabilir ya da buradan indirebilirsiniz.",
-    "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/refs/heads/main/pics/play1.jfif",
+    "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/refs/heads/main/pics/play2.jfif",
     "video": null,
     "apk": null
   },
