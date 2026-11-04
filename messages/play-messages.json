@@ -1,27 +1,34 @@
 [
   {
     "sira": 1,
-    "metin": "<b>✨ Play Neler yapabilir?</b>\n\n<b>⚡ Hemen oynatır :</b> Oynat'a basınca kaynak listesi beklenmez; uygun ilk kaynak bulunur bulunmaz film başlar, diğerleri arka planda yüklenir.\n<b>🇹🇷 Türkçe dublaj önce :</b> Türkçe dublajlı kaynak varsa ilk o seçilir. Yoksa Türkçe altyazıyla başlar. Her kaynak <b>Dublajlı</b> ya da <b>Altyazılı</b> diye etiketlenir, boyutu (GB) yanında görünür.\n<b>📝 Otomatik Türkçe altyazı :</b> Videoda altyazı yoksa çevrimiçi aranır, Türkçe önce gelir. Elle .srt ekleyebilir, senkronu ve görünümü (boyut, kalın, italik) ayarlayabilirsin.\n<b>🧩 Nuvio ve CloudStream :</b> Nuvio addon larını, Nuvio plugin lerini ve CloudStream (.cs3) eklenti depolarını kaynak olarak kullanır. Tek listede, eklentiye göre gruplu.\n<b>🧭 Sağlayıcı seçici :</b> Ana sayfa eklenti merkezli çalışabilir. Sağ alttaki hap butonla sağlayıcı seçilir; arama, Hepsi - CloudStream - Nuvio filtreleri, sabitleme ve çoklu seçim desteklenir.\n<b>🧲 Yerleşik torrent motoru :</b> Torrent kaynakları için ayrı uygulama, TorrServer ya da Debrid gerekmez.\n<b>🎛️ Akıllı oynatıcı :</b> Sağ tarafı kaydırarak ses, sol tarafı kaydırarak parlaklık. Kilit, kaynak, ses ve video kalitesi panelleri. Dizide sonraki bölüm otomatik açılır.\n<b>📥 Çevrimdışı izle :</b> Film ve bölümleri indir, internetsiz izle. Kaldığın yerden devam eder.\n<b>📺 Her ekranda :</b> Telefon, tablet ve Android TV. Kumandayla ve hava faresiyle gezinme tam desteklenir.",
+    "metin": "<b>✨ Play Neler yapabilir?</b>\n\n<b>⚡ Hemen oynatır :</b> Oynat'a basınca kaynak listesi beklenmez; uygun ilk kaynak bulunur bulunmaz film başlar, diğerleri arka planda yüklenir.\n<b>🇹🇷 Türkçe dublaj önce :</b> Türkçe dublajlı kaynak varsa ilk o seçilir. Yoksa Türkçe altyazıyla başlar. Her kaynak <b>Dublajlı</b> ya da <b>Altyazılı</b> diye etiketlenir, boyutu (GB) yanında görünür.\n<b>📝 Otomatik Türkçe altyazı :</b> Videoda altyazı yoksa çevrimiçi aranır, Türkçe önce gelir. Elle .srt ekleyebilir, senkronu ve görünümü (boyut, kalın, italik) ayarlayabilirsin.\n<b>🧩 Nuvio ve CloudStream :</b> Nuvio addon larını, Nuvio plugin lerini ve CloudStream (.cs3) eklenti depolarını kaynak olarak kullanır. Tek listede, eklentiye göre gruplu.",
     "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/pics/play.png",
     "video": null,
     "apk": null
   },
   {
     "sira": 2,
+    "metin": "<b>🧭 Sağlayıcı seçici :</b> Ana sayfa eklenti merkezli çalışabilir. Sağ alttaki hap butonla sağlayıcı seçilir; arama, Hepsi - CloudStream - Nuvio filtreleri, sabitleme ve çoklu seçim desteklenir.\n<b>🧲 Yerleşik torrent motoru :</b> Torrent kaynakları için ayrı uygulama, TorrServer ya da Debrid gerekmez.\n<b>🎛️ Akıllı oynatıcı :</b> Sağ tarafı kaydırarak ses, sol tarafı kaydırarak parlaklık. Kilit, kaynak, ses ve video kalitesi panelleri. Dizide sonraki bölüm otomatik açılır.\n<b>📥 Çevrimdışı izle :</b> Film ve bölümleri indir, internetsiz izle. Kaldığın yerden devam eder.\n<b>📺 Her ekranda :</b> Telefon, tablet ve Android TV. Kumandayla ve hava faresiyle gezinme tam desteklenir.",
+    "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/pics/play.png",
+    "video": null,
+    "apk": null
+  },
+  {
+    "sira": 3,
     "metin": "<b>Android Kurulumu</b>\n\nAPK dosyasını indirip kurun.\n\n⚠️ Kurulum sırasında <b>Bilinmeyen Kaynaklara İzin Ver</b> seçeneğini aktif edin.",
     "resim": null,
     "video": null,
     "apk": "BQACAgQAAyEFAAMBBR0RbAACIltq62PO25QSQFkjQDzDrgHvkUh7DwACVSUAArdMWFM3tsfiipD_lz0E"
   },
   {
-    "sira": 3,
+    "sira": 4,
     "metin": "Downloader uygulamasına sahip kullanıcılar için kodumuz <b>8206080</b>\n\n03-11-26 Tarihli Güncel Versiyon Eklenmiştir.\nYeni güncellemeyi uygulama üzerinden karşınıza çıkan uyarıdan yapabilir ya da buradan indirebilirsiniz.",
     "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/refs/heads/main/pics/play1.jfif",
     "video": null,
     "apk": null
   },
   {
-    "sira": 4,
+    "sira": 5,
     "metin": "✅ <b>Kurulum Tamamlandı!</b>\n\nUygulama içerisinde geniş bir katalog ile gelecektir.\n\nUygulama belli aralıklarla güncellenecek şeklinde kurulacaktır.\n\nUygulamayı test ederek bizlere sürekli yardımcı olan <b>@Mchtmert1907</b> arkadaşımıza teşekkür ederiz.\nUygulamayı geliştirerek bizlere sunan <b>@Okay0409</b> arkadaşımıza teşekkür ederiz.\n\nBu paylaşım <b>Bilgilendirme Amaçlı</b> yapılmıştır.\nUygulamanın yüklenmesi <b>Tamamen ve Tamamen Kullanıcının</b> tercihidir.\nUygulama Kurulumu - Kullanımı veya Uygulama Kanallı olarak oluşacak sorunlardan <b>GRUBUMUZ veya YÖNETİCİLERİMİZ SORUMLU DEĞİLDİR</b>.\n\nİyi Seyirler.... ",
     "resim": null,
     "video": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/pics/play.mp4",
