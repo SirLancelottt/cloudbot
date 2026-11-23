@@ -9,7 +9,7 @@
   {
     "sira": 2,
     "metin": "<b>Android Kurulumu</b>\n\nAPK dosyasını indirip kurun.\n\n⚠️ Kurulum sırasında <b>Bilinmeyen Kaynaklara İzin Ver</b> seçeneğini aktif edin.",
-    "resim": "https://raw.githubusercontent.com/SirLancelottt/cloudbot/main/pics/var-tv-111.jpg",
+    "resim": null,
     "video": null,
     "apk": "BQACAgQAAyEFAAMBBR0RbAACMVxrBHofaTU-kMyoOPj5gKlQ5jKN4AACpSAAAufZIFBGTQABHJQW7EY9BA"
   },
@@ -28,4 +28,5 @@
     "apk": null
   }
 ]
+
 
